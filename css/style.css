@@ -1,0 +1,71 @@
+.ort {
+  text-align: center;
+}
+
+.cardsearch {
+  background-color: rgb(238, 238, 238);
+  width: 1220px;
+}
+
+.bg-red {
+  background-color: rgb(255, 0, 0);
+}
+
+input {
+  width: 287px;
+  margin: 3px;
+}
+
+.dep-card {
+  background-color: rgb(126, 229, 218);
+}
+
+.container {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.mcardf {
+  width: 457px;
+  text-align: center;
+}
+
+.mcards {
+  width: 300px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.mcarde {
+  width: 460px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.ortala {
+  display: flex;
+  flex-direction: row;
+}
+
+.ml {
+  margin-left: 2px;
+}
+
+.mt {
+  margin-top: 2px;
+}
+
+.dep-con-f {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dep-end-con {
+  background-color: rgb(98, 179, 170);
+}
+
+.dep-med-con {
+  background-color: rgb(112, 204, 194)
+}
